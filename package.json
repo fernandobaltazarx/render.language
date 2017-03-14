@@ -1,0 +1,22 @@
+{
+  "name": "render.language",
+  "version": "1.0.0",
+  "description": "Speech to text",
+  "main": "speech-index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandobaltazarx/render.language.git"
+  },
+  "author": "christine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandobaltazarx/render.language/issues"
+  },
+  "homepage": "https://github.com/fernandobaltazarx/render.language#readme"
+}
